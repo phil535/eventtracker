@@ -22,4 +22,4 @@ Event text (double <ENTER> to confirm and save, or <q> to quit):
 Do you really want to quit the application [yN]: y
 ```
 
-## Liscence MIT
+## Liscense MIT
