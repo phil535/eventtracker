@@ -6,7 +6,9 @@ The events are also logged to a file.
  * Python standard library only
  
 ## Usage
-```Event text (double <ENTER> to confirm and save, or <q> to quit):
+```
+> python eventtracker.py
+Event text (double <ENTER> to confirm and save, or <q> to quit):
   This is the first event
   
 Saved event @ 27.04.2022 22:02:33, elapsed time: 0:00:20
@@ -20,6 +22,7 @@ Saved event @ 27.04.2022 22:02:59, elapsed time: 0:00:47
 Event text (double <ENTER> to confirm and save, or <q> to quit):
   q
 Do you really want to quit the application [yN]: y
+
 ```
 
 ## Liscense MIT
